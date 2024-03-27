@@ -1,6 +1,6 @@
 # threads-react-native
 
-## Backend Tests Running at:
+
 to run locally
 ```bash
   npx expo start
