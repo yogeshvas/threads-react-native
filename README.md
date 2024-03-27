@@ -61,5 +61,4 @@ Activity Screen.
 Profile Screen.
 <img width="1680" alt="Screenshot 2024-03-28 at 12 03 11 AM" src="https://github.com/yogeshvas/threads-react-native/assets/130190342/d3e3c996-4789-49ba-ab1d-ecf75ff6d2d1">
 
-:)
 
