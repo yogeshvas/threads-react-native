@@ -14,6 +14,7 @@ to run locally
 ```
 
 backend also at: https://threads-react-native.onrender.com
+(mongo uri is exposed for testing purpose)
 
 ## 🚀 Tech/libraries Used:
 Front End:
